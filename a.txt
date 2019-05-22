@@ -1,0 +1,47 @@
++-------------------------------------------------------------------+---------+----------------------------------------------------------+
+| Value                                                             | Unit    | Description                                              |
++-------------------------------------------------------------------+---------+----------------------------------------------------------+
+| (08H)Response                                                     |         | C                                                        |
+| 0                                                                 |         | A                                                        |
+| (72H)A message of application data responded from slave to master |         | CI                                                       |
+| 39759561; 2324; 50; 0C                                            |         | did; fid; vid; pid                                       |
+| 45; 50H; 0000H                                                    |         | access-number; status; signature                         |
+| 2860000000                                                        | J       | Realtime Energy                                          |
+| 0                                                                 | J       | Realtime Energy Tariff 1                                 |
+| 0                                                                 | J       | Realtime Energy Tariff 2                                 |
+| 809.38                                                            | m3      | Realtime Volume                                          |
+| DDEBBDDDH                                                         | W       | During error state Power                                 |
+| 0.0                                                               | m3/h    | Realtime Volume flow                                     |
+| EBBDH                                                             | Celsius | During error state Flow temperatur                       |
+| EBBDH                                                             | Celsius | During error state Return temperature                    |
+| EBBDH                                                             | K       | During error state Temperature difference                |
+| 12292                                                             | hours   | Realtime Operating time(Duration of meter accumulation)  |
+| 1915-6-4 15:51                                                    | Date    | Realtime Date                                            |
+| 2860000000                                                        | J       | Realtime Energy                                          |
+| 808.72                                                            | m3      | Realtime Volume                                          |
+| 0                                                                 | J       | Realtime Energy Tariff 1                                 |
+| 0                                                                 | J       | Realtime Energy Tariff 2                                 |
+| 2014-6-30                                                         | Date    | Realtime Date                                            |
+| 2015-6-30                                                         | Date    | Realtime Date (Future value)                             |
+| 2860000000                                                        | J       | Realtime Energy                                          |
+| 808.72                                                            | m3      | Realtime Volume                                          |
+| 0                                                                 | J       | Realtime Energy Tariff 1                                 |
+| 0                                                                 | J       | Realtime Energy Tariff 2                                 |
+| 2014-12-31                                                        | Date    | Realtime Date                                            |
+| 2015-12-31                                                        | Date    | Realtime Date (Future value)                             |
+| 0.2                                                               | m3      | Realtime Volume Subunit 1                                |
+| 0.5                                                               | m3      | Realtime Volume Subunit 2                                |
++-------------------------------------------------------------------+---------+----------------------------------------------------------+
+
+
+
+
+
+
+
+
+
+
+
+
+

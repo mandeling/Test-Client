@@ -1,0 +1,5 @@
+{
+    "BMUId": "0200000000010024",
+    "DataTaskServerUrl": "http://forw.cc/mvs/as/tables/",
+    "Gbt26831ServerUrl": "http://forw.cc/gbt26831/"
+}
